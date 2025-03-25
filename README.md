@@ -93,3 +93,4 @@ Top Products:
 Notebooks: Net Sales $2.99B, Gross Margin $2.91B
 Peripherals: Net Sales $1.75B, Gross Margin $1.7B
 
+![Dashboard](https://github.com/Gokul1998-svg/Power-BI--360-Dashboard/blob/main/Screenshot%202025-03-25%20191352.png)
