@@ -1,13 +1,13 @@
-# Power-BI--360-Dashboard
+# Power BI 360-Dashboard
 Business Insights 360
-Project Overview
+## Project Overview
 AtliQ Hardware has experienced significant growth in recent years. To maintain this momentum and outperform competitors, the company has embraced data-driven decision-making by implementing Power BI analytics for the first time. This project aims to provide comprehensive insights into finance, sales, marketing, and supply chain operations, addressing all stakeholder questions.
 
 Developed during my study of the Codebasics Power BI Course, which can be accessed here.
 
 Live Report Link
 
-Tech Stack
+##Tech Stack
 SQL
 Power BI Desktop
 Excel
@@ -43,10 +43,10 @@ Net Profit
 COGS (Cost of Goods Sold)
 YTD (Year to Date)
 YTG (Year to Go)
-Company Background
+### Company Background
 AtliQ Hardware has rapidly expanded globally, offering computers and computer accessories through three sales channels: Retail, Direct, and Distributors. Despite previous losses from ill-informed expansions in America, AtliQ Hardware is now building an analytics team to foster data-driven decisions, ensuring sustainability and competitive advantage.
 
-Pre-Project Planning
+### Pre-Project Planning
 It’s crucial to define the scope and expectations clearly before launching the project:
 
 What are the primary objectives for this Power BI dashboard?
@@ -58,22 +58,22 @@ Who will use this dashboard and for what purposes?
 Data Understanding
 A thorough understanding of the available data is essential:
 
-Dimension Table: Contains static data like customer and product details.
+## Dimension Table: Contains static data like customer and product details.
 Fact Table: Records transaction data.
 Importing Data into Power BI
 Data for this project is sourced from a MySQL database. Proper credentials are required for importing data into Power BI.
 
-Data Modeling
+## Data Modeling
 Effective data modeling is foundational to report performance. Poor modeling can impact the overall effectiveness of the report. We employed a snowflake modeling technique for optimal results. Learn more about best data modeling practices here.
 
-Dashboard Design
+## Dashboard Design
 Following initial mock-ups, the team designs interactive visuals and creates necessary measures.
 
-Report Views
+## Report Views
 Home: Central navigation hub for all report views.
 Info: Detailed project information.
 Finance, Sales, Marketing, Supply Chain, Executive: Dedicated views for specific insights.
 Products: Detailed product analysis.
-Project Outcome
+## Project Outcome
 This Power BI report is instrumental in facilitating data-backed decision-making, providing clarity for strategic planning, and addressing numerous situational queries.
 
