@@ -7,7 +7,7 @@ Developed during my study of the Codebasics Power BI Course, which can be access
 
 Live Report Link
 
-##Tech Stack
+## Tech Stack
 SQL
 Power BI Desktop
 Excel
@@ -76,4 +76,19 @@ Finance, Sales, Marketing, Supply Chain, Executive: Dedicated views for specific
 Products: Detailed product analysis.
 ## Project Outcome
 This Power BI report is instrumental in facilitating data-backed decision-making, providing clarity for strategic planning, and addressing numerous situational queries.
+### Insights
+Overall Metrics:
+
+Total Net Sales: $7.53 billion
+Total Gross Margin: $7.33 billion
+Gross Margin %: 97.32%
+Forecast Accuracy: 97.5%
+Top Performing Markets:
+
+APAC: Net Sales $4.05B, Gross Margin $3.94B
+EU: Net Sales $1.66B, Gross Margin $1.62B
+Top Products:
+
+Notebooks: Net Sales $2.99B, Gross Margin $2.91B
+Peripherals: Net Sales $1.75B, Gross Margin $1.7B
 
