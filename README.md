@@ -1,5 +1,5 @@
-# Power BI 360-Dashboard
-## Business Insights 360
+## Power BI 360-Dashboard
+Business Insights 360
 ![Project holder](https://github.com/Gokul1998-svg/Power-BI--360-Dashboard/blob/main/Screenshot%202025-03-25%20190823.png)
 ## Project Overview
 AtliQ Hardware has experienced significant growth in recent years. To maintain this momentum and outperform competitors, the company has embraced data-driven decision-making by implementing Power BI analytics for the first time. This project aims to provide comprehensive insights into finance, sales, marketing, and supply chain operations, addressing all stakeholder questions.
