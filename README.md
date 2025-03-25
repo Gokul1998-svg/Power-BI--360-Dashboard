@@ -5,7 +5,7 @@ AtliQ Hardware has experienced significant growth in recent years. To maintain t
 
 Developed during my study of the Codebasics Power BI Course, which can be accessed here.
 
-Live Report Link
+## Live Report Link ![Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTQyZGIzYzEtZjAwMC00ZTRiLWIzMjktOGViZWE0OGYxNTQwIiwidCI6IjRjN2E1ZmUwLTg2NDgtNDY2MS04MjYwLWJmYTVlOTE0YjRjMCJ9)
 
 ## Tech Stack
 SQL
